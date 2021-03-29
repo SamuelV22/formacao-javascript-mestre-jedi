@@ -7,5 +7,5 @@ function eventoOnload(){
 }
 
 function eventoOnclick(){
-    console.log("Missão JS realizada com sucesso");
+    alert("Missão JS realizada com sucesso!");
 }
